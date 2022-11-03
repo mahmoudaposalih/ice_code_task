@@ -1,0 +1,46 @@
+{
+
+
+   "lang":"English",
+   "The_game_has_been_added_successfully":"The game has been added successfully",
+   "The_game_has_been_modified_successfully":"The game has been modified successfully",
+   "Add_a_new_game":"Add a new game",
+   "ADD":"ADD",
+   "Max_Count_Of_Players":"Maximum Count Of Players",
+   "Player_count":"Players Count",
+   "Please_Enter_Max_Count_of_Player":"Please Enter Maximum Count Of Player",
+   "Please_Enter_valid_Number":"Please Enter valid Number",
+   "Player_count_must_be_greater_than_zero":"Player count must be greater than 0",
+   "Date_Time":"Date - Time",
+   "Please_Enter_DateTime":"Please Enter DateTime",
+   "Description":"Description",
+   "Warning":"Warning",
+   "Are_you_sure_to_delte_game":"Are you sure you want to delete the Game",
+   "yes":"Yes",
+   "No":"No",
+   "Location":"Location",
+   "Image":"Image",
+   "Add_Game_main_image":"Add Game main image",
+   "Tittel":"Tittel",
+   "Please_Enter_tittel":"Please enter tittel",
+   "Update":"Update",
+   "Location_permissions_are_denied":"Location permissions are denied",
+   "Location_permissions_are_permanently_denied_we_cannot_request_permissions":"Location permissions are permanently denied, we cannot request permissions.",
+   "Select_game_location":"Select Game Location",
+   "Sort_By_Tittel":"Sort By Name",
+"Sory_by_data":"Sort By Date",
+"NoAvailbleGames":"There are no games at the moment",
+"AreYouSureYouWantToClose":"Are you sure you want to close App ?",
+"AreYouSureYouWantchangeLanguage":"Are you sure you want to change Language ?"
+
+
+
+
+
+
+
+
+
+
+ 
+}
